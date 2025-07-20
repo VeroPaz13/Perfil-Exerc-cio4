@@ -51,6 +51,14 @@ A estrutura da página foi organizada com as principais tags semânticas do HTML
 
 ---
 
+## 🌐 Visualize a página online
+
+Você pode acessar a página de perfil pessoal publicada no GitHub Pages pelo link abaixo:
+
+👉 [https://veropaz13.github.io/Perfil-Exerc-cio4/](https://veropaz13.github.io/Perfil-Exerc-cio4/)
+
+---
+
 ## 🙋‍♀️ Desenvolvido por
 
 **Verônica Oliveira**  
